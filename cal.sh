@@ -16,3 +16,7 @@ a/b
 
 # percentage
 a%b
+
+
+# exponetial 
+aex b
